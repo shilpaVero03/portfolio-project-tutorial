@@ -35,20 +35,18 @@ nav ul li{
   border-top: 0.1875rem solid var(--primary-dark);
 }
 
-/* nav .navbar-collapse{
+nav .navbar-collapse{
   justify-content: end;
-} */
+}
 
 .navbar-brand{
   max-width: 17.25rem;
   padding: 0 !important;
   height: 6rem !important;
-  justify-content: end;
 }
 
 .navbar-nav > li > a.active, .navbar-nav > li > a.active:focus {
-  border-color: aqua;
-  border-bottom: 0.1875rem solid ;
+  border-top: 0.1875rem solid ;
 }
 
 .navbar-nav > li > a:hover {
